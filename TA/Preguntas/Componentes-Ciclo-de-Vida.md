@@ -18,7 +18,9 @@
 **¿En qué fase del ciclo de vida de un componente en React se realiza la petición de datos a un servidor?**
 
 *A) Montaje*
+
 *B) Actualización*
+
 *C) Desmontaje*
 
 **ANSWER: A**
@@ -28,7 +30,9 @@
 **¿Cuál es el método que se utiliza en un componente de React para realizar acciones después de que el componente haya sido renderizado en la interfaz de usuario?**
 
 *A) componentDidUpdate*
+
 *B) componentDidMount*
+
 *C) componentWillUnmount*
 
 **ANSWER: B**
