@@ -1,4 +1,6 @@
 **Preguntas Reflexivas deben seguir la siguiente estructura**
+
+
 **_PREGUNTA#1_**
 
 **¿Qué es un componente en React y cuál es su función principal?**
