@@ -3,7 +3,7 @@
 
 **_PREGUNTA#1_**
 
-**¿Qué es un componente en React y cuál es su función principal?**
+**¿Qué es un componente en React y cuál es su función principal?** **[Semana#2]**
 
 *A) Un componente es una función que devuelve elementos de React y su función principal es estructurar la interfaz de usuario de una aplicación.*
 
@@ -15,7 +15,7 @@
 
 **_PREGUNTA#2_**
 
-**¿En qué fase del ciclo de vida de un componente en React se realiza la petición de datos a un servidor?**
+**¿En qué fase del ciclo de vida de un componente en React se realiza la petición de datos a un servidor?**  **[Semana#2]**
 
 *A) Montaje*
 
@@ -27,7 +27,7 @@
 
 **_PREGUNTA#3_**
 
-**¿Cuál es el método que se utiliza en un componente de React para realizar acciones después de que el componente haya sido renderizado en la interfaz de usuario?**
+**¿Cuál es el método que se utiliza en un componente de React para realizar acciones después de que el componente haya sido renderizado en la interfaz de usuario?**  **[Semana#2]**
 
 *A) componentDidUpdate*
 
